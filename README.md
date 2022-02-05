@@ -1,6 +1,11 @@
 Empty IG
 ---
 ![issues](https://img.shields.io/github/issues/costateixeira/rules)
+![qa-errs](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/costateixeira/rules/master/qa-errs.json)
+
+
+
+
 
 This is an empty IG
 <br> </br>
