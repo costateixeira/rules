@@ -1,5 +1,6 @@
 Empty IG
 ---
+/github/issues/:user/:repo
 This is an empty IG
 <br> </br>
 ###
