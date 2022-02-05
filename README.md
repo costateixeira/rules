@@ -1,6 +1,7 @@
 Empty IG
 ---
-/github/issues/:user/:repo
+https://img.shields.io/github/issues/costateixeira/rules
+
 This is an empty IG
 <br> </br>
 ###
