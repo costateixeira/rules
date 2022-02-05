@@ -1,6 +1,6 @@
 Empty IG
 ---
-https://img.shields.io/github/issues/costateixeira/rules
+![issues](https://img.shields.io/github/issues/costateixeira/rules)
 
 This is an empty IG
 <br> </br>
