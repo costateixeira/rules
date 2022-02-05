@@ -22,4 +22,4 @@ Issues and change requests are managed here:
 Issues:  __https://github.com/openhie/fhir-ig-empty/issues__  
 Kanban board:  __https://github.com/openhie/fhir-ig-empty/projects/1__  
 
----
+--- 
